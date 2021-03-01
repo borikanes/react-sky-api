@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-sky-api/static/css/main.72fb9d15.chunk.css",
+    "main.js": "/react-sky-api/static/js/main.44c3f046.chunk.js",
+    "main.js.map": "/react-sky-api/static/js/main.44c3f046.chunk.js.map",
+    "runtime-main.js": "/react-sky-api/static/js/runtime-main.c31ba554.js",
+    "runtime-main.js.map": "/react-sky-api/static/js/runtime-main.c31ba554.js.map",
+    "static/js/2.4fdc70a4.chunk.js": "/react-sky-api/static/js/2.4fdc70a4.chunk.js",
+    "static/js/2.4fdc70a4.chunk.js.map": "/react-sky-api/static/js/2.4fdc70a4.chunk.js.map",
+    "static/js/3.db1aaa47.chunk.js": "/react-sky-api/static/js/3.db1aaa47.chunk.js",
+    "static/js/3.db1aaa47.chunk.js.map": "/react-sky-api/static/js/3.db1aaa47.chunk.js.map",
+    "index.html": "/react-sky-api/index.html",
+    "static/css/main.72fb9d15.chunk.css.map": "/react-sky-api/static/css/main.72fb9d15.chunk.css.map",
+    "static/js/2.4fdc70a4.chunk.js.LICENSE.txt": "/react-sky-api/static/js/2.4fdc70a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c31ba554.js",
+    "static/js/2.4fdc70a4.chunk.js",
+    "static/css/main.72fb9d15.chunk.css",
+    "static/js/main.44c3f046.chunk.js"
+  ]
+}
