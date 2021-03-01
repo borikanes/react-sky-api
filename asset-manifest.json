@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-sky-api/static/css/main.72fb9d15.chunk.css",
-    "main.js": "/react-sky-api/static/js/main.44c3f046.chunk.js",
-    "main.js.map": "/react-sky-api/static/js/main.44c3f046.chunk.js.map",
+    "main.js": "/react-sky-api/static/js/main.378de49c.chunk.js",
+    "main.js.map": "/react-sky-api/static/js/main.378de49c.chunk.js.map",
     "runtime-main.js": "/react-sky-api/static/js/runtime-main.c31ba554.js",
     "runtime-main.js.map": "/react-sky-api/static/js/runtime-main.c31ba554.js.map",
     "static/js/2.4fdc70a4.chunk.js": "/react-sky-api/static/js/2.4fdc70a4.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c31ba554.js",
     "static/js/2.4fdc70a4.chunk.js",
     "static/css/main.72fb9d15.chunk.css",
-    "static/js/main.44c3f046.chunk.js"
+    "static/js/main.378de49c.chunk.js"
   ]
 }
